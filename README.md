@@ -28,7 +28,8 @@ mindset       : hacker + analyst
 learning_mode : continuous
 ```
 
-
+🐍 Contribution Activity
+<p align="center"> <img src="https://raw.githubusercontent.com/Genofogu/Genofogu/output/github-contribution-grid-snake.svg" /> </p>
 
 
 ## 🚀 Tech Stack
@@ -66,19 +67,20 @@ learning_mode : continuous
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=genofogu&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=genofogu&theme=tokyonight" height="160"/>
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Genofogu&show_icons=true&theme=tokyonight&hide_border=true" height="160"/> <img src="https://streak-stats.demolab.com?user=Genofogu&theme=tokyonight&hide_border=true" height="160"/> </p>
 
 ---
 
 ## 🔥 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=genofogu&layout=compact&theme=tokyonight"/>
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Genofogu&layout=compact&theme=tokyonight&hide_border=true"/> </p>
 ---
+
+Code is logic.
+Data is power.
+Intelligence is engineered.
+
+<p align="center"> <sub>Silent work. Consistent growth.</sub> </p> ```
 
 ## 🧬 Current Focus
 
@@ -87,3 +89,4 @@ while True:
     learn()
     build()
     improve()
+
