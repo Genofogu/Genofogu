@@ -1,35 +1,35 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000000,50:300000,100:ff0000&text=DEMON%20MODE%20ACTIVATED&fontColor=ff0000&fontSize=34&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,40:220000,100:ff0000&text=ASCENDED%20DEMON%20MODE&fontColor=ff0000&fontSize=36&animation=fadeIn" />
 </p>
 
 <h1 align="center">👁️ Anu Gaur</h1>
-<h3 align="center">⚠️ Hacker Mindset | Data Science × AI | System Breaker</h3>
+<h3 align="center">⚠️ Hacker | Data Science × AI | System Architect</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Breaking+Systems;Engineering+Intelligence;Silent+Execution;Demon+in+the+Code&center=true&width=520&height=45&color=ff0000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Breaking+Systems;Engineering+Intelligence;Silent+Execution;Blood+Red+Logic&center=true&width=540&height=45&color=ff0000">
 </p>
 
 ---
 
-## 🧠 SYSTEM STATUS
+## 🧠 SYSTEM CORE
 
     status        : active
-    mode          : demon
+    mode          : demon.ascended
     focus         : data science, machine learning, systems
     mindset       : hacker + analyst
-    learning_mode : continuous
+    learning_mode : relentless
 
 ---
 
-## 🐍 DEMON CONTRIBUTION GRID
+## 🐍 DEMON CONTRIBUTION MATRIX
 
-<p align="center" style="background-color:#0b0000; padding:20px; border-radius:12px;">
-  <img src="https://raw.githubusercontent.com/Genofogu/Genofogu/output/snake.svg" />
+<p align="center" style="background:#050000;padding:25px;border-radius:14px;box-shadow:0 0 40px #ff0000;">
+  <img src="https://raw.githubusercontent.com/Genofogu/Genofogu/output/demon-ascended.svg" />
 </p>
 
 ---
 
-## 🩸 CORE STACK
+## 🩸 WEAPON STACK
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
@@ -43,9 +43,15 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-black?style=for-the-badge&logo=scikit-learn)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow)
 
+### ⚙ Tools
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
+
 ---
 
-## 🧬 CURRENT LOOP
+## 🧬 EXECUTION LOOP
 
     while alive:
         learn()
@@ -54,9 +60,9 @@
 
 ---
 
-> 🩸 **Code is blood.  
-> Data is fire.  
-> Intelligence is domination.**
+> 🩸 Code is blood.  
+> 🔥 Data is fire.  
+> 👁️ Intelligence is domination.
 
 <p align="center">
   <sub>Silent work. Violent growth.</sub>
