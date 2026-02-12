@@ -21,7 +21,8 @@ jobs:
         with:
           github_user_name: Genofogu
           outputs: |
-            output/matrix-rain.svg
+            output/matrix-rain.svg?palette=github-light
+
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
