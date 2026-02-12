@@ -1,16 +1,13 @@
-<p align="center"> <img src="https://raw.githubusercontent.com/Genofogu/Genofogu/output/matrix-rain.svg" /> </p>|
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=ENGINEERING%20INTELLIGENCE&fontColor=00e5ff&fontSize=32&animation=fadeIn" />
 </p>
-<h1 align="center">Hi 👋, I'm Anu Gaur</h1>
-<h3 align="center">🔴 Demon Architect | Data Science × AI | Problem Solver</h3>
+<h1 align="Start">Hi 👋, I'm Anu Gaur</h1>
+<h3 align="Start">🔴 Demon Architect | Data Science × AI | Problem Solver</h3>
 <br>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Engineering+Intelligence;Turning+Data+into+Insights;Learning+Relentlessly;Future+ML+Engineer&center=true&width=520&height=45&color=58A6FF">
 </p>
-<p align="center">
+<p align="End">
   <i>Focused on depth, consistency, and real-world problem solving.</i>
 </p>
 
