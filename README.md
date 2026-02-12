@@ -24,7 +24,7 @@
 ## 🐍 DEMON CONTRIBUTION GRID
 
 <p align="center" style="background-color:#0b0000; padding:20px; border-radius:12px;">
-  <img src="https://raw.githubusercontent.com/Genofogu/Genofogu/output/demon-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Genofogu/Genofogu/output/snake.svg" />
 </p>
 
 ---
