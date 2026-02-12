@@ -1,0 +1,57 @@
+name: Matrix Rain Overlay
+
+on:
+  schedule:
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate matrix rain svg
+        run: |
+          cat > matrix-rain.svg <<'EOF'
+          <svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+            <defs>
+              <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+                <stop offset="0%" stop-color="#00ff9c"/>
+                <stop offset="100%" stop-color="#00331f"/>
+              </linearGradient>
+              <filter id="glow">
+                <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
+                <feMerge>
+                  <feMergeNode in="coloredBlur"/>
+                  <feMergeNode in="SourceGraphic"/>
+                </feMerge>
+              </filter>
+            </defs>
+            <rect width="100%" height="100%" fill="#020b08"/>
+            <g fill="url(#g)" font-family="monospace" font-size="14" filter="url(#glow)">
+              <!-- columns -->
+              <script><![CDATA[
+                const svg = document.currentScript.ownerDocument.documentElement;
+                const cols = 80;
+                for (let i=0;i<cols;i++){
+                  const x = i*(1200/cols);
+                  for (let y=0;y<220;y+=18){
+                    const t = document.createElementNS("http://www.w3.org/2000/svg","text");
+                    t.setAttribute("x",x);
+                    t.setAttribute("y",y+18);
+                    t.textContent = Math.random()>0.5 ? "01" : "10";
+                    svg.querySelector("g").appendChild(t);
+                  }
+                }
+              ]]></script>
+            </g>
+          </svg>
+          EOF
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: .
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
