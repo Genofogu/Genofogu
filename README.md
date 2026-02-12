@@ -8,7 +8,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Engineering+Intelligence;Turning+Data+into+Insights;Learning+Relentlessly;Future+ML+Engineer&center=true&width=520&height=45&color=58A6FF">
 </p>
-
 ---
 
 ## 🧠 About Me
