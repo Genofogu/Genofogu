@@ -33,7 +33,7 @@
 
 ## 🧠 PROFILE
 
-```txt
+txt
 status        : active
 focus         : data science, machine learning, systems
 mindset       : hacker + analyst
