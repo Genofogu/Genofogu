@@ -1,43 +1,33 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=ENGINEERING%20INTELLIGENCE&fontColor=00e5ff&fontSize=32&animation=fadeIn" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Anu Gaur</h1>
 <h3 align="center">⚡ MCA Aspirant | Data Scientist in Progress | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+AI+Systems;Turning+Data+into+Intelligence;Learning+Everyday;Future+ML+Engineer&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Engineering+Intelligence;Turning+Data+into+Insights;Learning+Relentlessly;Future+ML+Engineer&center=true&width=520&height=45&color=58A6FF">
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🎯 Focused on **Data Science & AI**
-- 📊 Building real-world ML projects
-- 🔍 Strong interest in problem-solving & system thinking
-- ⚡ Always learning. Always building.
+- 🎯 Focused on **Data Science & Artificial Intelligence**
+- 📊 Building real-world **ML & data analysis projects**
+- 🔍 Strong interest in **problem-solving & system thinking**
+- ⚡ Believer in consistency, fundamentals, and clean code
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=ENGINEERING%20INTELLIGENCE&fontColor=00e5ff&fontSize=32&animation=fadeIn" />
-</p>
+## 🧠 Profile Status
 
-<h2 align="center">⚠️ ACCESS GRANTED ⚠️</h2>
-
-<h3 align="center">Genofogu</h3>
-<p align="center"><b>MCA Aspirant | Data Science × AI | System Thinker</b></p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Engineering+Intelligence;Breaking+Problems+into+Systems;Learning+Relentlessly;Building+in+Silence&center=true&width=520&height=45&color=58A6FF">
-</p>
-
----
-
-## 🧠 PROFILE
-
-txt
+```txt
 status        : active
 focus         : data science, machine learning, systems
 mindset       : hacker + analyst
 learning_mode : continuous
+```
 
 
 
