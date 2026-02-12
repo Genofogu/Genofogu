@@ -16,6 +16,32 @@
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=ENGINEERING%20INTELLIGENCE&fontColor=00e5ff&fontSize=32&animation=fadeIn" />
+</p>
+
+<h2 align="center">⚠️ ACCESS GRANTED ⚠️</h2>
+
+<h3 align="center">Genofogu</h3>
+<p align="center"><b>MCA Aspirant | Data Science × AI | System Thinker</b></p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Engineering+Intelligence;Breaking+Problems+into+Systems;Learning+Relentlessly;Building+in+Silence&center=true&width=520&height=45&color=58A6FF">
+</p>
+
+---
+
+## 🧠 PROFILE
+
+```txt
+status        : active
+focus         : data science, machine learning, systems
+mindset       : hacker + analyst
+learning_mode : continuous
+
+
+
+
 ## 🚀 Tech Stack
 
 ### 💻 Languages
