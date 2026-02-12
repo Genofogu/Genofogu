@@ -1,9 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=ENGINEERING%20INTELLIGENCE&fontColor=00e5ff&fontSize=32&animation=fadeIn" />
+  <img src="https://raw.githubusercontent.com/Genofogu/Genofogu/output/matrix-rain.svg" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Anu Gaur</h1>
-<h3 align="center">⚡ MCA Aspirant | Data Scientist in Progress | Problem Solver</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=ENGINEERING%20INTELLIGENCE&fontColor=00e5ff&fontSize=32&animation=fadeIn" />
+</p>
+<h1 align="center">Hi, I'm Anu Gaur</h1>
+<h3 align="center">⚠️ Demon Architect | Data Science × AI | Problem Solver</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Engineering+Intelligence;Turning+Data+into+Insights;Learning+Relentlessly;Future+ML+Engineer&center=true&width=520&height=45&color=58A6FF">
@@ -31,10 +34,18 @@
 
 ## 🐍 Contribution Activity
 
-<p align="center" style="background-color:#0b0000; padding:20px; border-radius:10px;">
-  <img src="https://raw.githubusercontent.com/Genofogu/Genofogu/output/github-contribution-grid-snake-dark.svg" />
+## 🐍 DEMON GRID
+<p align="center" style="background:#050000;padding:24px;border-radius:14px;box-shadow:0 0 40px #ff0000;">
+  <img src="https://raw.githubusercontent.com/Genofogu/Genofogu/output/demon-ascended.svg" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Systems+Before+Syntax;Blood+Red+Logic;Relentless+Execution&center=true&width=560&height=45&color=ff0000">
 </p>
 
+## 🧠 NEURAL CORE
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Genofogu/Genofogu/output/neural-core.svg" />
+</p>
 
 ---
 
@@ -85,20 +96,20 @@
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Genofogu&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+
 ---
 
-## 🧬 Current Focus
-
-    while True:
+## 🧬  Current Focus
+    while alive:
         learn()
         build()
-        improve()
+        dominate()
 
 ---
 
-> Code is logic.  
+> Code is blood.  
 > Data is power.  
-> Intelligence is engineered.
+> Intelligence is rule.
 
 <p align="center">
   <sub>Silent work. Consistent growth.</sub>
