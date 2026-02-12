@@ -31,9 +31,10 @@
 
 ## 🐍 Contribution Activity
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Genofogu/Genofogu/output/github-contribution-grid-snake.svg" />
+<p align="center" style="background-color:#0b0000; padding:20px; border-radius:10px;">
+  <img src="https://raw.githubusercontent.com/Genofogu/Genofogu/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
 
 ---
 
