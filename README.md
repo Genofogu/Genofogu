@@ -11,6 +11,25 @@
 <h3 align="center">⚠️ Demon Architect | Data Science × AI</h3>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/main/docs/assets/matrix.gif" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000000,50:220000,100:ff0000&text=DEMON%20MODE&fontColor=ff0000&fontSize=36&animation=fadeIn" />
+</p>
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/main/docs/assets/matrix.gif" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/master/assets/graph.svg" width="100%" />
+</p>
+
+
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Systems+Before+Syntax;Blood+Red+Logic;Relentless+Execution&center=true&width=560&height=45&color=ff0000">
 </p>
 
