@@ -32,7 +32,6 @@
 
 ---
 
-## 🐍 Contribution Activity
 
 ## 🐍 DEMON GRID
 <p align="center" style="background:#050000;padding:24px;border-radius:14px;box-shadow:0 0 40px #ff0000;">
