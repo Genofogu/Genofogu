@@ -1,20 +1,22 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Genofogu/Genofogu/output/matrix-rain.svg" />
-</p>
+<p align="center"> <img src="https://raw.githubusercontent.com/Genofogu/Genofogu/output/matrix-rain.svg" /> </p>|
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=ENGINEERING%20INTELLIGENCE&fontColor=00e5ff&fontSize=32&animation=fadeIn" />
 </p>
-<h1 align="center">Hi, I'm Anu Gaur</h1>
-<h3 align="center">⚠️ Demon Architect | Data Science × AI | Problem Solver</h3>
-
+<h1 align="center">Hi 👋, I'm Anu Gaur</h1>
+<h3 align="center">🔴 Demon Architect | Data Science × AI | Problem Solver</h3>
+<br>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Engineering+Intelligence;Turning+Data+into+Insights;Learning+Relentlessly;Future+ML+Engineer&center=true&width=520&height=45&color=58A6FF">
+</p>
+<p align="center">
+  <i>Focused on depth, consistency, and real-world problem solving.</i>
 </p>
 
 ---
 
-## 🧠 About Me
+## 😺 About Me
 
 - 🎯 Focused on **Data Science & Artificial Intelligence**
 - 📊 Building real-world **ML & data analysis projects**
@@ -32,21 +34,45 @@
 
 ---
 
+## 📌 Pinned Projects
 
-## 🐍 DEMON GRID
-<p align="center" style="background:#050000;padding:24px;border-radius:14px;box-shadow:0 0 40px #ff0000;">
-  <img src="https://raw.githubusercontent.com/Genofogu/Genofogu/output/demon-ascended.svg" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Systems+Before+Syntax;Blood+Red+Logic;Relentless+Execution&center=true&width=560&height=45&color=ff0000">
-</p>
+### 📊 Data Analysis & Visualization
+**Tech:** Python, Pandas, NumPy, Matplotlib  
+- Performed data cleaning, transformation, and exploratory data analysis  
+- Created visual insights to identify trends and patterns  
+- Focused on real-world datasets and clear storytelling  
 
-## 🧠 NEURAL CORE
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Genofogu/Genofogu/output/neural-core.svg" />
-</p>
+🔗 Repo: `data-analysis-project`
+##
+
+### 🤖 Machine Learning Model
+**Tech:** Python, Scikit-learn  
+- Built and evaluated a machine learning model from scratch  
+- Applied preprocessing, feature selection, and model evaluation  
+- Emphasized understanding model behavior over accuracy hype  
+
+🔗 Repo: `ml-model-project`
+##
+
+### 🌐 AI-Powered Web App
+**Tech:** Flask, Python, HTML, CSS  
+- Developed a lightweight web application integrating ML logic  
+- Implemented REST APIs and backend data handling  
+- Designed for simplicity, scalability, and learning  
+
+🔗 Repo: `ai-web-app`
+##
+
+### ⚙️ Python Automation Tool
+**Tech:** Python  
+- Automated repetitive tasks using Python scripts  
+- Focused on efficiency, readability, and real usage  
+- Built with modular and reusable code structure  
+
+🔗 Repo: `python-automation`
 
 ---
+
 
 ## 🚀 Tech Stack
 
@@ -81,6 +107,7 @@
 
 ---
 
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -98,6 +125,20 @@
 
 ---
 
+## 🐍 DEMON GRID
+<p align="center" style="background:#050000;padding:24px;border-radius:14px;box-shadow:0 0 40px #ff0000;">
+  <img src="https://raw.githubusercontent.com/Genofogu/Genofogu/output/demon-ascended.svg" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Systems+Before+Syntax;Blood+Red+Logic;Relentless+Execution&center=true&width=560&height=45&color=ff0000">
+</p>
+
+## 🧠 NEURAL CORE
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Genofogu/Genofogu/output/neural-core.svg" />
+</p>
+
+---
 ## 🧬  Current Focus
     while alive:
         learn()
