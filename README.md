@@ -73,7 +73,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Genofogu&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Genofogu&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
   <img src="https://streak-stats.demolab.com?user=Genofogu&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
@@ -82,9 +82,8 @@
 ## 🔥 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Genofogu&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Genofogu&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
 ---
 
 ## 🧬 Current Focus
