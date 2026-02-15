@@ -46,7 +46,7 @@
 **Tech:** Python, Scikit-learn  
 - Built and evaluated a machine learning model from scratch  
 - Applied preprocessing, feature selection, and model evaluation  
-- Emphasized understanding model behavior over accuracy hype  
+- Emphasized understanding model behavior over accuracy hype 
 
 🔗 Repo: `ml-model-project`
 ##
