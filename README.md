@@ -1,4 +1,4 @@
-# Hi, I'm Anu Gaur
+# Hi, I'm Anu Gaur (Genofogu)
 
 ### Data Science • Analytics • Product Engineering • Scalable Systems
 
@@ -33,7 +33,7 @@
 
 ---
 
-# Building Homlap
+# Building [Homlap](https://www.homlap.com)
 
 ## Co-Founder Building Homlap
 
