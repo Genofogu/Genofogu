@@ -1,153 +1,174 @@
+# Hi, I'm Anu Gaur
+
+### Data Science • Analytics • Product Engineering • Scalable Systems
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=ENGINEERING%20INTELLIGENCE&fontColor=00e5ff&fontSize=32&animation=fadeIn" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+AI+and+Data+Driven+Products;Data+Science+%7C+Analytics+%7C+Web+Development;Machine+Learning+and+Scalable+Systems;Deploying+Ideas+into+Real+World+Products&center=true&width=780&height=45&color=58A6FF">
 </p>
-<h1 align="Start">Hi 👋, I'm Anu Gaur</h1>
-<h3 align="Start">🔴 Demon Architect | Data Science × AI | Problem Solver</h3>
-<br>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Engineering+Intelligence;Turning+Data+into+Insights;Learning+Relentlessly;Future+ML+Engineer&center=true&width=520&height=45&color=58A6FF">
+  <a href="https://genofogu.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  
+  <a href="https://github.com/Genofogu">
+    <img src="https://img.shields.io/badge/GitHub-Genofogu-111111?style=for-the-badge&logo=github" />
+  </a>
+  
+  <a href="https://linkedin.com/in/genofogu">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
-<p align="End">
-  <i>Focused on depth, consistency, and real-world problem solving.</i>
-</p>
 
 ---
 
-## 😺 About Me
+# About Me
 
-- 🎯 Focused on **Data Science & Artificial Intelligence**
-- 📊 Building real-world **ML & data analysis projects**
-- 🔍 Strong interest in **problem-solving & system thinking**
-- ⚡ Believer in consistency, fundamentals, and clean code
-
----
-
-## 🧠 Profile Status
-
-    status        : active
-    focus         : data science, machine learning, systems
-    mindset       : hacker + analyst
-    learning_mode : continuous
+- Focused on Data Science, Analytics, Machine Learning, and scalable product development 
+- Building intelligent systems using Python, SQL, Scikit-learn, React, javascript and TypeScript
+- Experienced in frontend development, backend integration, dashboards, deployment, and scalable product workflows
+- Hands-on experience deploying applications using Vercel, AWS Amplify, Route 53, and DNS management workflows
+- Interested in cloud infrastructure, scalable systems, security research, and CTF-based problem solving
+- Passionate about building products that solve real-world problems at scale
 
 ---
 
-## 📌 Pinned Projects
+# Building Homlap
 
-### 📊 Data Analysis & Visualization
-**Tech:** Python, Pandas, NumPy, Matplotlib  
-- Performed data cleaning, transformation, and exploratory data analysis  
-- Created visual insights to identify trends and patterns  
-- Focused on real-world datasets and clear storytelling  
+## Co-Founder Building Homlap
 
-🔗 Repo: `data-analysis-project`
-##
+Working on Homlap, a modern housing platform focused on simplifying PG, room, and property discovery across India.
 
-### 🤖 Machine Learning Model
-**Tech:** Python, Scikit-learn  
-- Built and evaluated a machine learning model from scratch  
-- Applied preprocessing, feature selection, and model evaluation  
-- Emphasized understanding model behavior over accuracy hype 
+### Current Focus
 
-🔗 Repo: `ml-model-project`
-##
+- Developing responsive frontend systems using React and TypeScript
+- Building scalable UI architecture and design
+- Improving product usability and user experience
+- Learning startup product development through real-world implementation
 
-### 🌐 AI-Powered Web App
-**Tech:** Flask, Python, HTML, CSS  
-- Developed a lightweight web application integrating ML logic  
-- Implemented REST APIs and backend data handling  
-- Designed for simplicity, scalability, and learning  
+### Tech Stack
 
-🔗 Repo: `ai-web-app`
-##
-
-### ⚙️ Python Automation Tool
-**Tech:** Python  
-- Automated repetitive tasks using Python scripts  
-- Focused on efficiency, readability, and real usage  
-- Built with modular and reusable code structure  
-
-🔗 Repo: `python-automation`
+`React` • `TypeScript` • `Node.js` • `Tailwind CSS`
 
 ---
 
+# Featured Projects
 
-## 🚀 Tech Stack
+## AI Student Performance Prediction
+**Tech:** Python, Scikit-learn, Pandas
 
-### 💻 Languages
+- Developed an ML model on 50K+ student records with 89% prediction accuracy
+- Engineered academic and behavioral features for predictive analysis
+- Compared multiple classification algorithms for performance evaluation
+
+Repository:
+https://github.com/Genofogu/ai-student-performance-prediction
+
+---
+
+## Fake News Detection System
+**Tech:** Python, NLP, Scikit-learn
+
+- Created an NLP fake news classifier using 40K+ news articles
+- Applied TF-IDF vectorization and Logistic Regression techniques
+- Automated text preprocessing and feature extraction workflows
+
+Repository:
+https://github.com/Genofogu/fake-news-detection-system
+
+---
+
+## AI Customer Churn Prediction
+**Tech:** Python, SQL, Power BI
+
+- Predicted customer churn using ML models trained on 100K+ transaction records
+- Identified high-risk customer segments through feature analysis
+- Visualized retention KPIs and churn insights using Power BI
+
+Repository:
+https://github.com/Genofogu/ai-customer-churn-prediction
+
+---
+
+## Social Media Analytics Dashboard
+**Tech:** Power BI, SQL, Excel
+
+- Analyzed 50K+ social media records across multiple platforms
+- Visualized engagement, impressions, and follower growth KPIs
+- Built interactive dashboards for performance monitoring
+
+Repository:
+https://github.com/Genofogu/social-media-analytics-dashboard
+
+---
+
+# Tech Stack
+
+## Languages
+
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
 ![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript)
 
-### 📊 Data Science
-![NumPy](https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy)
+---
+
+## Data Science & Analytics
+
 ![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-111111?style=for-the-badge&logo=scikit-learn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-111111?style=for-the-badge&logo=plotly)
+![PowerBI](https://img.shields.io/badge/PowerBI-111111?style=for-the-badge&logo=powerbi)
 
-### 🌐 Backend & Frontend
-![Flask](https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask)
-![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi)
+---
+
+## Web Development
+
 ![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
-
-### 🗄 Databases
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwind-css)
 ![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb)
 
-### ⚙ Dev Tools
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker)
+---
+
+## Cloud & Deployment
+
 ![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws)
+![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel)
+![Streamlit](https://img.shields.io/badge/Streamlit-111111?style=for-the-badge&logo=streamlit)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)
 
 ---
 
-
-## 📈 GitHub Stats
+# GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Genofogu&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Genofogu&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  
   <img src="https://streak-stats.demolab.com?user=Genofogu&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
-## 🔥 Most Used Languages
+# Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Genofogu&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Genofogu&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🐍 DEMON GRID
-<p align="center" style="background:#050000;padding:24px;border-radius:14px;box-shadow:0 0 40px #ff0000;">
-  <img src="https://raw.githubusercontent.com/Genofogu/Genofogu/output/demon-ascended.svg" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Systems+Before+Syntax;Blood+Red+Logic;Relentless+Execution&center=true&width=560&height=45&color=ff0000">
-</p>
+# Current Goals
 
-## 🧠 NEURAL CORE
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Genofogu/Genofogu/output/neural-core.svg" />
-</p>
-
----
-## 🧬  Current Focus
-    while alive:
-        learn()
-        build()
-        dominate()
+- Build production-ready AI and ML systems
+- Improve scalable backend and cloud architecture skills
+- Deploy intelligent products and analytics applications
+- Scale Homlap into a real-world platform
+- Strengthen system design and technical problem-solving abilities
 
 ---
 
-> Code is blood.  
-> Data is power.  
-> Intelligence is rule.
-
 <p align="center">
-  <sub>Silent work. Consistent growth.</sub>
+  <sub>Building intelligent products with consistency, curiosity, and long-term vision.</sub>
 </p>
