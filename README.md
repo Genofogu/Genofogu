@@ -1,4 +1,4 @@
-# Hi, I'm Anu Gaur (Genofogu)
+# Hi, I'm Anu Gaur 
 
 ### Data Science • Analytics • Product Engineering • Scalable Systems
 
