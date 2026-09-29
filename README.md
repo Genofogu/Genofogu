@@ -106,14 +106,15 @@ Iteration
 
 ---
 
+---
+
 # Most Used Languages
 
-# GitHub
-
 <p align="center">
-  <a href="https://github.com/Genofogu">
-    <img src="https://img.shields.io/badge/GitHub-Genofogu-111111?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Genofogu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Most Used Languages"
+  />
 </p>
 
 ---
