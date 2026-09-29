@@ -3,10 +3,6 @@
 ### Data Science • Analytics • Full-Stack Development • AI/ML
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+AI+and+Data+Driven+Products;Data+Science+%7C+Analytics+%7C+Web+Development;Machine+Learning+and+Scalable+Systems;Deploying+Ideas+into+Real+World+Products&center=true&width=780&height=45&color=58A6FF">
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Building+Data+Driven+and+Intelligent+Products;Data+Science+%7C+Analytics+%7C+Full-Stack+Development;AI%2FML+%7C+Python+%7C+React+%7C+TypeScript;Turning+Ideas+into+Practical+Products&center=true&width=800&height=45&color=58A6FF">
 </p>
 
