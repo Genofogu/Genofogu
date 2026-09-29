@@ -1,20 +1,24 @@
 # Hi, I'm Anu Gaur 
 
-### Data Science • Analytics • Product Engineering • Scalable Systems
+### Data Science • Analytics • Full-Stack Development • AI/ML
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Building+AI+and+Data+Driven+Products;Data+Science+%7C+Analytics+%7C+Web+Development;Machine+Learning+and+Scalable+Systems;Deploying+Ideas+into+Real+World+Products&center=true&width=780&height=45&color=58A6FF">
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Data+Driven+and+Intelligent+Products;Data+Science+%7C+Analytics+%7C+Full-Stack+Development;AI%2FML+%7C+Python+%7C+React+%7C+TypeScript;Turning+Ideas+into+Practical+Products&center=true&width=800&height=45&color=58A6FF">
+</p>
+
+<p align="center">
   <a href="https://genofogu.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  
+
   <a href="https://github.com/Genofogu">
-    <img src="https://img.shields.io/badge/GitHub-Genofogu-111111?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Genofogu-111111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  
+
   <a href="https://linkedin.com/in/genofogu">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -24,83 +28,38 @@
 
 # About Me
 
-- Focused on Data Science, Analytics, Machine Learning, and scalable product development 
-- Building intelligent systems using Python, SQL, Scikit-learn, React, javascript and TypeScript
-- Experienced in frontend development, backend integration, dashboards, deployment, and scalable product workflows
-- Hands-on experience deploying applications using Vercel, AWS Amplify, Route 53, and DNS management workflows
-- Interested in cloud infrastructure, scalable systems, security research, and CTF-based problem solving
-- Passionate about building products that solve real-world problems at scale
+- 🎓 MCA student focused on software development, data science, and intelligent systems
+- 📊 Interested in Data Analysis, Machine Learning, analytics, and data-driven products
+- 💻 Hands-on experience with React, TypeScript, JavaScript, Node.js, Python, SQL, and modern web technologies
+- 🧠 Building projects that combine software engineering, analytics, and AI/ML
+- ☁️ Interested in cloud deployment, scalable systems, application security, and practical engineering
+- 🚀 Interested in working on real-world products and learning through hands-on engineering environments
 
 ---
 
-# Building [Homlap](https://www.homlap.com)
+# What I Build
 
-## Co-Founder Building Homlap
+I enjoy working across the complete development cycle:
 
-Working on Homlap, a modern housing platform focused on simplifying PG, room, and property discovery across India.
-
-### Current Focus
-
-- Developing responsive frontend systems using React and TypeScript
-- Building scalable UI architecture and design
-- Improving product usability and user experience
-- Learning startup product development through real-world implementation
-
-### Tech Stack
-
-`React` • `TypeScript` • `Node.js` • `Tailwind CSS`
-
----
-
-# Featured Projects
-
-## AI Student Performance Prediction
-**Tech:** Python, Scikit-learn, Pandas
-
-- Developed an ML model on 50K+ student records with 89% prediction accuracy
-- Engineered academic and behavioral features for predictive analysis
-- Compared multiple classification algorithms for performance evaluation
-
-Repository:
-https://github.com/Genofogu/ai-student-performance-prediction
-
----
-
-## Fake News Detection System
-**Tech:** Python, NLP, Scikit-learn
-
-- Created an NLP fake news classifier using 40K+ news articles
-- Applied TF-IDF vectorization and Logistic Regression techniques
-- Automated text preprocessing and feature extraction workflows
-
-Repository:
-https://github.com/Genofogu/fake-news-detection-system
-
----
-
-## AI Customer Churn Prediction
-**Tech:** Python, SQL, Power BI
-
-- Predicted customer churn using ML models trained on 100K+ transaction records
-- Identified high-risk customer segments through feature analysis
-- Visualized retention KPIs and churn insights using Power BI
-
-Repository:
-https://github.com/Genofogu/ai-customer-churn-prediction
-
----
-
-## Social Media Analytics Dashboard
-**Tech:** Power BI, SQL, Excel
-
-- Analyzed 50K+ social media records across multiple platforms
-- Visualized engagement, impressions, and follower growth KPIs
-- Built interactive dashboards for performance monitoring
-
-Repository:
-https://github.com/Genofogu/social-media-analytics-dashboard
-
----
+```text
+Idea
+ ↓
+Product Design
+ ↓
+Frontend
+ ↓
+Backend & APIs
+ ↓
+Database
+ ↓
+Data & Analytics
+ ↓
+AI / ML
+ ↓
+Deployment
+ ↓
+Iteration
+```
 
 # Tech Stack
 
