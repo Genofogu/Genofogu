@@ -25,7 +25,7 @@
 # About Me
 
 - 🎓 MCA student focused on software development, data science, and intelligent systems
-- 📊 Interested in Data Analysis, Machine Learning, analytics, and data-driven products
+- 📊 Interested in Full Stack, Machine Learning, Analytics, and data-driven products & Technologies
 - 💻 Hands-on experience with React, TypeScript, JavaScript, Node.js, Python, SQL, and modern web technologies
 - 🧠 Building projects that combine software engineering, analytics, and AI/ML
 - ☁️ Interested in cloud deployment, scalable systems, application security, and practical engineering
