@@ -108,19 +108,26 @@ Iteration
 
 # Most Used Languages
 
+# GitHub
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Genofogu&layout=compact&theme=tokyonight&hide_border=true"/>
+  <a href="https://github.com/Genofogu">
+    <img src="https://img.shields.io/badge/GitHub-Genofogu-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-# Current Goals
+# Current Focus
 
+- Building production-oriented full-stack applications
+- Strengthening Data Analysis and Machine Learning skills
+- Developing FinSight AI as my MCA major project
+- Improving backend, database, and API architecture
+- Learning cloud deployment and scalable system design
+- Building practical products around real-world problems
 - Build production-ready AI and ML systems
-- Improve scalable backend and cloud architecture skills
-- Deploy intelligent products and analytics applications
-- Scale Homlap into a real-world platform
-- Strengthen system design and technical problem-solving abilities
+- Make Inhaby market ready.
 
 ---
 
